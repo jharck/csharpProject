@@ -1,0 +1,12 @@
+/Users/jharck/Development/CSharp/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.deps.json
+/Users/jharck/Development/CSharp/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.json
+/Users/jharck/Development/CSharp/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.dev.json
+/Users/jharck/Development/CSharp/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.dll
+/Users/jharck/Development/CSharp/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.pdb
+/Users/jharck/Development/CSharp/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.csprojAssemblyReference.cache
+/Users/jharck/Development/CSharp/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfoInputs.cache
+/Users/jharck/Development/CSharp/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfo.cs
+/Users/jharck/Development/CSharp/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.csproj.CoreCompileInputs.cache
+/Users/jharck/Development/CSharp/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.dll
+/Users/jharck/Development/CSharp/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.pdb
+/Users/jharck/Development/CSharp/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.genruntimeconfig.cache
